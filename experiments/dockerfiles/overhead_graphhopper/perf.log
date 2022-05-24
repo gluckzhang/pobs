@@ -1,0 +1,9 @@
+# started on Mon May 23 11:49:30 2022
+
+
+ Performance counter stats for process id '10640,10727,10728,10737,10866,10883,12016,12021,':
+
+     1,612,787,628      instructions                                                
+
+      60.610155476 seconds time elapsed
+
